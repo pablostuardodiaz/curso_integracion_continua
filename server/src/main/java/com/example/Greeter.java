@@ -17,10 +17,10 @@ public class Greeter {
    * Metodo de greet modificado.
    */
   public String greet(String someone) {
-    if(magico > 1){
-      if(true){
-         if(true){
-         if(true){
+    if (magico > 1){
+      if (true){
+         if (true){
+         if (true){
         System.out.println("Hola caracola");
       }
       }
