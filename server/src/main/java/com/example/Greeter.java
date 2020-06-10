@@ -18,12 +18,12 @@ public class Greeter {
    */
   public String greet(String someone) {
     if (magico > 1){
-     /*if (true){
+     if (true){
          if (true){
          if (true){
         System.out.println("Hola caracola");
       }
-      }*/
+      }
       }
         return String.format("Hello, %s!", someone);
     }
